@@ -1,2 +1,3 @@
 My first comment added to the first line.
 Second line added on feature branch.
+Third line added on feature branch.
